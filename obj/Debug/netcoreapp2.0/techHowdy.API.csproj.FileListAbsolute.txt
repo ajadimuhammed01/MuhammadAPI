@@ -1,0 +1,11 @@
+C:\Users\AJADI-PC\source\repos\techHowdy.API\bin\Debug\netcoreapp2.0\techHowdy.API.deps.json
+C:\Users\AJADI-PC\source\repos\techHowdy.API\bin\Debug\netcoreapp2.0\techHowdy.API.runtimeconfig.json
+C:\Users\AJADI-PC\source\repos\techHowdy.API\bin\Debug\netcoreapp2.0\techHowdy.API.runtimeconfig.dev.json
+C:\Users\AJADI-PC\source\repos\techHowdy.API\bin\Debug\netcoreapp2.0\techHowdy.API.dll
+C:\Users\AJADI-PC\source\repos\techHowdy.API\bin\Debug\netcoreapp2.0\techHowdy.API.pdb
+C:\Users\AJADI-PC\source\repos\techHowdy.API\obj\Debug\netcoreapp2.0\techHowdy.API.csprojAssemblyReference.cache
+C:\Users\AJADI-PC\source\repos\techHowdy.API\obj\Debug\netcoreapp2.0\techHowdy.API.csproj.CoreCompileInputs.cache
+C:\Users\AJADI-PC\source\repos\techHowdy.API\obj\Debug\netcoreapp2.0\techHowdy.API.AssemblyInfoInputs.cache
+C:\Users\AJADI-PC\source\repos\techHowdy.API\obj\Debug\netcoreapp2.0\techHowdy.API.AssemblyInfo.cs
+C:\Users\AJADI-PC\source\repos\techHowdy.API\obj\Debug\netcoreapp2.0\techHowdy.API.dll
+C:\Users\AJADI-PC\source\repos\techHowdy.API\obj\Debug\netcoreapp2.0\techHowdy.API.pdb

@@ -1,0 +1,11 @@
+C:\Users\AJADI-PC\source\repos\Muhammad.API\bin\Debug\netcoreapp2.0\Muhammad.API.deps.json
+C:\Users\AJADI-PC\source\repos\Muhammad.API\bin\Debug\netcoreapp2.0\Muhammad.API.runtimeconfig.json
+C:\Users\AJADI-PC\source\repos\Muhammad.API\bin\Debug\netcoreapp2.0\Muhammad.API.runtimeconfig.dev.json
+C:\Users\AJADI-PC\source\repos\Muhammad.API\bin\Debug\netcoreapp2.0\Muhammad.API.dll
+C:\Users\AJADI-PC\source\repos\Muhammad.API\bin\Debug\netcoreapp2.0\Muhammad.API.pdb
+C:\Users\AJADI-PC\source\repos\Muhammad.API\obj\Debug\netcoreapp2.0\Muhammad.API.csprojAssemblyReference.cache
+C:\Users\AJADI-PC\source\repos\Muhammad.API\obj\Debug\netcoreapp2.0\Muhammad.API.csproj.CoreCompileInputs.cache
+C:\Users\AJADI-PC\source\repos\Muhammad.API\obj\Debug\netcoreapp2.0\Muhammad.API.AssemblyInfoInputs.cache
+C:\Users\AJADI-PC\source\repos\Muhammad.API\obj\Debug\netcoreapp2.0\Muhammad.API.AssemblyInfo.cs
+C:\Users\AJADI-PC\source\repos\Muhammad.API\obj\Debug\netcoreapp2.0\Muhammad.API.dll
+C:\Users\AJADI-PC\source\repos\Muhammad.API\obj\Debug\netcoreapp2.0\Muhammad.API.pdb
